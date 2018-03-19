@@ -18,6 +18,7 @@
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
+                <p>Bife é bom :)</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
         </div>
